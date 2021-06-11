@@ -1,0 +1,9 @@
+boom.wav
+clap.wav
+hihat.wav
+kick.wav
+openhat.wav
+ride.wav
+snare.wav
+tink.wav
+tom.wav

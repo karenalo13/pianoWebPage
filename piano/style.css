@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  background: black;
+
+}
+
+
+img{
+  width:99.9vw;
+  height: 99.2vh;
+  position: absolute;
+}
+
+.container{
+  padding-top: 45vh;
+
+}
+.buton{
+    position: relative;
+    height: 10vh;
+    width: 5vw;
+    left:20px;
+    float: left;
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: black;
+    border-style: double;
+    padding: 10px;
+}
+
+
+.butonPressed{
+  position: relative;
+  height: 10vh;
+  width: 5vw;
+  left:20px;
+  float: left;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  border-color: brown;
+  background-color: brown;
+  border-style: double;
+  padding: 10px;
+}
+
+
+
+.buton:active{
+  background-color: brown;
+  border-color: brown;
+}
+
+h1{
+  color:brown;
+  position: relative;
+
+}
